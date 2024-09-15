@@ -8,9 +8,15 @@ public class Main {
         student[3]="Yasser";
         student[4]="Nolan";
         readStudents(student);
-        randomgroups(student);
+        
 
 
+    }
+      public static void readStudents(String[] a){
+        int length = a.length;
+        for(int i=0; i< length; i++){
+            System.out.println(a[i]);
+        }
     }
 
 }
