@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args){
         String[] student = new String[5];
-        student[0]= "Salm";
+        student[0]= "Mossa";
         student[1]= "Ali";
         student[2]="saleh";
         student[3]="Yasser";
